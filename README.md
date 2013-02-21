@@ -10,10 +10,3 @@ to the subdirectories in ~/_Remotes
 
 * Host list file format:
 user@host[:port][#remotedir]
-
-* Host list file example:
-
-user@host.de
-specificsshport@92.56.87.162:1222
-tram@pampam.eu#/home/users/trampam
-bam@bambam.tv:1222#/home/users/bam
